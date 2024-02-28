@@ -12,3 +12,7 @@ function test() {
   console.log("notice the blank line before this function?");
 }
 ```
+## A task list
+- [x] Added headers
+- [x] Added image
+- [ ] Whats next? 
